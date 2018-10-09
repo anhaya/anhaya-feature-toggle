@@ -4,6 +4,9 @@ import org.togglz.core.Feature;
 import org.togglz.core.annotation.Label;
 import org.togglz.core.context.FeatureContext;
 
+/**
+ * @author Carlos Anhaya
+ */
 public enum AvailableFeatures implements Feature {
 
     @Label("Create Client")
