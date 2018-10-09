@@ -1,6 +1,6 @@
 # anhaya-feature-toggle
 
-Sample of Spring Boot + Togglz
+Sample of Spring Boot + Togglz (FileBasedStateRepository)
 
 How to Run:
 
